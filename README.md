@@ -13,6 +13,7 @@ pnpm dev
 # or
 bun dev
 ```
+NEXT_PUBLIC_BASE_URL="http://localhost:8080/api"
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
